@@ -1,8 +1,4 @@
 ## This is why we play 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
-[![Circle CI](https://circleci.com/gh/wwayne/react-native-nba-app/tree/master.svg?style=svg)](https://circleci.com/gh/wwayne/react-native-nba-app/tree/master)
-
-![group](https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png)
 
 ## Info
 * **Platform:** iOS & Android
@@ -38,7 +34,7 @@
 3. It's a bit complicated to those who are not familiar with Android development, like me
 
 ## Design
-The design is made by Sketch, you can find the original design file in [Dropbox](https://www.dropbox.com/s/3hn1o5xgk7bzjpa/Allyoop.sketch?dl=0), it may help if someone wants to design new features.
+The design is made by Sketch, you can find the original design file in [Dropbox], it may help if someone wants to design new features.
 
 ## Run in device
 #### iOS：
